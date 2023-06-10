@@ -3,7 +3,7 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/TareqB1/lab-07-vid/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/TareqB1/lab-07-vid/tree/main)
 
-Testing..
+Testing...
 
 
 Q2: Change the number of created images to hundreds of thousands to experiment with the effects of the flyweight pattern? How many flyweights have been created??
