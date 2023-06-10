@@ -1,9 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/oKs9cMRq)
+
 ![example workflow](https://github.com/cpit252/lab-7-TareqB1/actions/workflows/classroom.yml/badge.svg)
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/TareqB1/lab-07-vid/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/TareqB1/lab-07-vid/tree/main)
 
-Testing...
+[![codecov](https://codecov.io/gh/TareqB1/lab-07-vid/branch/main/graph/badge.svg?token=WFBZRJYI9K)](https://codecov.io/gh/TareqB1/lab-07-vid)
+
+
 
 
 Q2: Change the number of created images to hundreds of thousands to experiment with the effects of the flyweight pattern? How many flyweights have been created??
